@@ -33,9 +33,5 @@ public class Enemy : MonoBehaviour
     private void Update()
     {
         IsDead(health <= 0);
-    }
-
-
-
-    
+    }    
 }
